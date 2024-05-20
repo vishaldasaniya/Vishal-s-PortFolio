@@ -16,7 +16,7 @@ export const Footer =() => {
                     <Col sm={6} className="text-center text-sm-end">
                         <div className="social-icon" id="footer-adjust">
                             <a href="https://www.linkedin.com/in/vishal-dasaniya"><img src={navIcon1} /></a>
-                            <a href="#"><img src={navIcon2} /></a>
+                            <a href="https://www.facebook.com/vishal.dasaniya.9"><img src={navIcon2} /></a>
                             <a href="https://www.instagram.com/vishaldasaniya"><img src={navIcon3} /></a>
                         </div>
                         <p>CopyRight &copy; 2024. All Right Reserved</p>
